@@ -33,4 +33,4 @@ Self-taught in Python, Java, JavaScript, HTML/CSS, and SQL. I build things in cl
 
 ---
 
-📫 Find me on [LinkedIn](www.linkedin.com/in/shahmerrkhann)
+📫 Find me on [LinkedIn](linkedin.com/in/shahmerrkhann)
