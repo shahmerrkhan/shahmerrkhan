@@ -1,5 +1,5 @@
 # Hey, I'm Shahmeer 👋
-Grade 11, Cambridge ON, building toward SE @ UWaterloo. Self-taught dev.
+Grade 11, Cambridge ON, building toward SE @ UWaterloo.
 
 ---
 ### Stack
