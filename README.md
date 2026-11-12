@@ -16,7 +16,7 @@ Based in Ontario, Canada.
 
 | Hackathon | Result |
 | --- | --- |
-| Community Hacks | 2nd place |
+| CommuniHacks | 2nd place |
 
 ## Stack
 
