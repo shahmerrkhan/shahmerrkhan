@@ -15,13 +15,13 @@ Based in Ontario, Canada.
 
 ## Stack
 
-**Languages:** TypeScript, JavaScript, Python
-**Frontend:** React, Next.js, Tailwind, Angular, React Native, Electron
-**Backend and data:** Node.js, Postgres (Neon), Supabase, Drizzle
-**Services:** Clerk, Stripe, Resend, Gemini, ElevenLabs, Whisper
-**Tools:** Git, GitHub, Linux (Mint), Vercel, Sentry, Claude Code
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js, Tailwind, Angular, React Native, Electron
+- **Backend and data:** Node.js, Postgres (Neon), Supabase, Drizzle
+- **Services:** Clerk, Stripe, Resend, Gemini, ElevenLabs, Whisper
+- **Tools:** Git, GitHub, Linux (Mint), Vercel, Sentry, Claude Code
 
 ## Contact
 
-Email: m.shahameer.khan8@gmail.com
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- Email: m.shahameer.khan8@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shahmerrkhann
