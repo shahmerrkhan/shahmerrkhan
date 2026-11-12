@@ -8,10 +8,15 @@ Based in Ontario, Canada.
 
 - Doing AI/ML prototyping at Magic Hour (YC W24)
 - Side project: [Clicky](https://github.com/shahmerrkhan/heyclicky-linux), a Linux screen buddy
-- 2nd place at Community Hacks
 - Trying to get into CS at Waterloo
 - Looking for a software engineering internship starting February 2027
 - Into startups right now. Long term, I want to build products on a real engineering team at big tech.
+
+## Hackathons
+
+| Hackathon | Result |
+| --- | --- |
+| Community Hacks | 2nd place |
 
 ## Stack
 
